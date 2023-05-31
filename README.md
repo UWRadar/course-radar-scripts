@@ -12,9 +12,9 @@ Workflows:
 This repository requires Python 3.11.
 
 * Set up virtual environment:
-```bash
-python -m venv venv
-```
+  ```bash
+  python -m venv venv
+  ```
 
 * Activate the virtual environment
   For Windows:
