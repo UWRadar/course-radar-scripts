@@ -25,4 +25,5 @@ This repository requires Python 3.11.
   ```bash
   source ./venv/bin/activate
   ```
-
+* Set up `.env` file
+  
